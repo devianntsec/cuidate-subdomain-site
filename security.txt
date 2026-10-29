@@ -1,0 +1,4 @@
+Contact: mailto:me@deviannt.com
+Expires: 2027-12-31T23:59:00Z
+Preferred-Languages: es, en
+Canonical: https://cuidate.deviannt.com/.well-known/security.txt

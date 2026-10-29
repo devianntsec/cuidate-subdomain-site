@@ -1,0 +1,12 @@
+{
+  "name": "Tus datos, tu responsabilidad",
+  "short_name": "Cuídate",
+  "description": "Guía de protección de datos y ciberseguridad en Chile: qué son tus datos, leyes 21.719 y 21.663, herramientas gratuitas y un checklist de 10 minutos.",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
