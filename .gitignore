@@ -1,0 +1,11 @@
+# Local dev (no se despliegan a Pages)
+serve.mjs
+package.json
+node_modules/
+
+# Pruebas
+tests/
+
+# Sistema
+.DS_Store
+Thumbs.db
